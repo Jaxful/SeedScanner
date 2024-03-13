@@ -1,0 +1,4 @@
+venv/
+data/
+bad_seeds_stripped/
+minecraft_cnn_model.pth
